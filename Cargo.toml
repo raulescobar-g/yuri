@@ -2,6 +2,10 @@
 name = "yuri"
 version = "0.1.0"
 edition = "2021"
+authors = ["Raul Escobar"]
+description = "Math lib specialized for graphics (for learning purposes only, its prob super slow)"
+license = "MIT"
+keywords = ["math", "graphics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
